@@ -1,4 +1,4 @@
-2010-12-12  Steve Traylen <steve@traylen.net>
+2010-12-12  Steve Traylen <steve@traylen.net> - 20101212
 
 	* vo/dteam/ChangeLog, vo/dteam/LICENSE, vo/dteam/Makefile,
 	vo/dteam/README, vo/dteam/dteam, vo/dteam/lcg-voms.cern.ch.lsc,
