@@ -1,0 +1,17 @@
+
+The voms-conf-dteam package contains static configuration
+files for supporting a VO using VOMS software.
+
+In particular the following files are contained.
+
+1) To validate VOMS credentials the following files 
+    exist.
+/etc/grid-security/vomses/*.lsc 
+
+2) To generate voms credentials the following file
+   exists.
+/etc/vomses/dteam
+
+All files contained within here are licensed with the
+apache source license version 2.0.
+
