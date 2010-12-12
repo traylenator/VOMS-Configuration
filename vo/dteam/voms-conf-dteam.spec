@@ -39,3 +39,5 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Sun Dec 12 2010 Steve Traylen <steve@traylen.net> - 20101212-1
+- First version.
