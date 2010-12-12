@@ -1,0 +1,12 @@
+2010-12-12  Steve Traylen <steve@traylen.net>
+
+	* vo/dteam/ChangeLog, vo/dteam/LICENSE, vo/dteam/Makefile,
+	vo/dteam/README, vo/dteam/dteam, vo/dteam/lcg-voms.cern.ch.lsc,
+	vo/dteam/voms-conf-dteam.spec, vo/dteam/voms.cern.ch.lsc,
+	vo/dteam/voms.hellasgrid.gr.lsc, vo/dteam/voms2.hellasgrid.gr.lsc: 
+	First Version Ever
+
+2010-12-12  Steve Traylen <steve@traylen.net>
+
+	* first commit
+
