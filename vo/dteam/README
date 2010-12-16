@@ -6,7 +6,7 @@ In particular the following files are contained.
 
 1) To validate VOMS credentials the following files 
     exist.
-/etc/grid-security/vomses/*.lsc 
+/etc/grid-security/vomses/dteam/*.lsc 
 
 2) To generate voms credentials the following file
    exists.
