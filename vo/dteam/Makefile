@@ -21,5 +21,5 @@ sources: clean $(FILES)
 	tar cvfz voms-conf-$(VO)-$(DATE).tar.gz voms-conf-$(VO)-$(DATE)
 
 rpm: sources
-	rpmbuild -ba --define "_sourcedir ${PWD}" voms-conf-$(VO).spec
+	rpmbuild-md5 -ba --define "_sourcedir ${PWD}" voms-conf-$(VO).spec
 

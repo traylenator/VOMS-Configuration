@@ -1,6 +1,6 @@
 Name:           voms-conf-dteam
 Version:        20110325
-Release:        1%{?dist}
+Release:        2
 Summary:        VOMS Configuration Files for the dteam VO
 
 Group:          Applications/System
@@ -39,6 +39,9 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Sun Dec 12 2010 Steve Traylen <steve@traylen.net> - 20120325-2
+- Remove dist tag.
+
 * Sun Dec 12 2010 Steve Traylen <steve@traylen.net> - 20120325-1
 - Remove CERN VOMS servers.
 
