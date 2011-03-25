@@ -1,5 +1,14 @@
 2011-03-25  Steve Traylen <steve.traylen@cern.ch>
 
+	* vo/dteam/Makefile, vo/dteam/voms-conf-dteam.spec: Remove dist tags
+	from RPM and build with md5.
+
+2011-03-25  Steve Traylen <steve.traylen@cern.ch>
+
+	* vo/dteam/ChangeLog: Change Log change.
+
+2011-03-25  Steve Traylen <steve.traylen@cern.ch>
+
 	* vo/dteam/.gitignore, vo/dteam/Makefile, vo/dteam/dteam,
 	vo/dteam/lcg-voms.cern.ch.lsc, vo/dteam/voms-conf-dteam.spec,
 	vo/dteam/voms.cern.ch.lsc: Delete CERN VOMS Servers
