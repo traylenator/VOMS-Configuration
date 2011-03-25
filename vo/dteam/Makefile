@@ -1,7 +1,7 @@
-DATE=20101212
+DATE=20110325
 
 VO=dteam
-LSCFILES=lcg-voms.cern.ch.lsc  voms2.hellasgrid.gr.lsc  voms.cern.ch.lsc  voms.hellasgrid.gr.lsc
+LSCFILES=voms2.hellasgrid.gr.lsc voms.hellasgrid.gr.lsc
 FILES=$(VO) ChangeLog README $(LSCFILES) voms-conf-$(VO).spec Makefile LICENSE
 
 

@@ -1,5 +1,5 @@
 Name:           voms-conf-dteam
-Version:        20101212
+Version:        20110325
 Release:        1%{?dist}
 Summary:        VOMS Configuration Files for the dteam VO
 
@@ -39,5 +39,8 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Sun Dec 12 2010 Steve Traylen <steve@traylen.net> - 20120325-1
+- Remove CERN VOMS servers.
+
 * Sun Dec 12 2010 Steve Traylen <steve@traylen.net> - 20101212-1
 - First version.
