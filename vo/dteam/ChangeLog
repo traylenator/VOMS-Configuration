@@ -1,4 +1,26 @@
-2010-12-12  Steve Traylen <steve@traylen.net> - 20101212
+2011-03-25  Steve Traylen <steve.traylen@cern.ch>
+
+	* vo/dteam/.gitignore, vo/dteam/Makefile, vo/dteam/dteam,
+	vo/dteam/lcg-voms.cern.ch.lsc, vo/dteam/voms-conf-dteam.spec,
+	vo/dteam/voms.cern.ch.lsc: Delete CERN VOMS Servers
+
+2010-12-16  Steve Traylen <steve.traylen@cern.ch>
+
+	* vo/dteam/README: Correct lsc path in README.
+
+2010-12-12  Steve Traylen <steve@traylen.net>
+
+	* vo/dteam/voms-conf-dteam.spec: Add changelog to .spec file
+
+2010-12-12  Steve Traylen <steve@traylen.net>
+
+	* vo/dteam/ChangeLog: voms-conf-dteam 20101212
+
+2010-12-12  Steve Traylen <steve@traylen.net>
+
+	* vo/dteam/ChangeLog: Update changelog.
+
+2010-12-12  Steve Traylen <steve@traylen.net>
 
 	* vo/dteam/ChangeLog, vo/dteam/LICENSE, vo/dteam/Makefile,
 	vo/dteam/README, vo/dteam/dteam, vo/dteam/lcg-voms.cern.ch.lsc,
